@@ -1,5 +1,5 @@
 # Código para Estágio
-Este repositório contém as soluções para os desafios propostos no teste de estágio. Abaixo estão os detalhes de cada desafio, como executar o código e exemplos de uso.
+Este repositório contém as soluções para os desafios propostos no teste de estágio. Abaixo estão os detalhes de cada desafio, como executar o código.
 
 ## Descrição
 
