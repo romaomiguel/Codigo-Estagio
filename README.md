@@ -6,7 +6,10 @@ Este repositório contém as soluções para os desafios propostos no teste de e
 Este projeto é composto por cinco desafios que foram resolvidos como parte do teste de estágio. Cada desafio é implementado em arquivos Python separados e a solução está documentada no código.
 
 ## Pré-requisitos
-Antes de executar o código, certifique-se de ter o Python 3.x instalado. Você pode verificar a versão do Python com o comando:
+Antes de executar o código, certifique-se de ter o Python instalado. Você pode verificar a versão do Python com o comando:
 
 ```bash
-python --version
+python --version 
+
+Após as três crases, você deve poder continuar escrevendo normalmente no arquivo `README.md`.
+
