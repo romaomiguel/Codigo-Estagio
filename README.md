@@ -22,5 +22,5 @@ Antes de executar o código, certifique-se de ter o Python instalado. Você pode
 Para instalar as dependências, use o comando 
 `python exercicio_1.py`.
 
-### Dicas
+## Dicas
 Coloque o arquivo 'dados.json' na mesma pasta que esta o arquivo 'exercicio_3.py' para não ocasionar em erros
