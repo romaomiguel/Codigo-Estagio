@@ -16,11 +16,15 @@ Este projeto é composto por cinco desafios que foram resolvidos como parte do t
 
 ## Pré-requisitos
 Antes de executar o código, certifique-se de ter o Python instalado. Você pode verificar a versão do Python com o comando: 
-`python --version`.
+```bash
+python --version.
+```
 
 ## Como Executar
 Para instalar as dependências, use o comando 
-`python exercicio_1.py`.
+```bash
+python exercicio_1.py.
+```
 
 ## Dicas
-Coloque o arquivo 'dados.json' na mesma pasta que esta o arquivo 'exercicio_3.py' para não ocasionar em erros
+Coloque o arquivo `dados.json` na mesma pasta que esta o arquivo `exercicio_3.py` para não ocasionar em erros
